@@ -1,0 +1,19 @@
+{
+	"id": "eclipse3-theme",
+	"name": "eclips3-theme",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": ">=0.9.0-pre.1"
+	},
+	"repository": "https://github.com/georgeharito/eclips3-theme",
+	"publisher": "George Haritonidis",
+	"contributes": {
+		"themes": [
+			{
+				"label": "eclips3.media (ECLM) Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/eclips3.media (ECLM).tmTheme"
+			}
+		]
+	}
+}
